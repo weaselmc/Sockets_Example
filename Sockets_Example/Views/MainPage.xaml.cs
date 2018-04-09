@@ -14,5 +14,6 @@ namespace Sockets_Example.Views
             InitializeComponent();
             NavigationCacheMode = Windows.UI.Xaml.Navigation.NavigationCacheMode.Enabled;
         }
+
     }
 }
